@@ -16,7 +16,7 @@
         
         <div class="menu">
             <ul>
-                <li><a href=""><img src="svg/github.svg"></a></li>
+                <li><a href="https://github.com/Earl0935/MidtermExam"><img src="svg/github.svg"></a></li>
                 <li><a href="https://www.floom.com/shop/flowers"><img src="svg/shop.svg"></a></li>
                 <li><a href="https://merch.floom.com"><img src="svg/merch.svg"></a></li>
             </ul>
