@@ -24,7 +24,7 @@
 		</style>
 	</head>
 	<body>
-		<a href="https://github.com/IanKry/SVG">GITHUB</a>
+		<a href="https://github.com/Earl0935/MidtermExam/tree/main/graphicsart">GITHUB</a>
 		<table>
 		<th>
 			<div class="linecircle">
